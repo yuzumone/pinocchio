@@ -1,6 +1,6 @@
 ---
 title: "Vol.47 麹に魅せられて"
-date: 2023-03-056T16:55:00+09:00
+date: 2023-03-05T16:55:00+09:00
 ---
 
 {{< embed title="麹に魅せられて" url="https://www.tvi.jp/pinocchio/backnumber/pinocchio_167807426417931" >}}
