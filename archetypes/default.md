@@ -1,6 +1,8 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Vol.10"
 date: {{ .Date }}
-draft: true
 ---
 
+{{< embed title="" url="" >}}
+
+##
