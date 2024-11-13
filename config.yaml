@@ -4,6 +4,6 @@ publishDir: "docs"
 languageCode: "ja-jp"
 title: "夢・見る・ピノキオ 音楽"
 theme: "paper"
-paginate: 10
-disqusShortname: ""
+pagination:
+  pagerSize: 10
 googleAnalytics: G-FHLB36HZRC
